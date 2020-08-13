@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spreadsheetruby-286311",
+  "private_key_id": "f4706bfe76f228b2de716b36725a2275ce27fa9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPmjJipBvOXnmG\nrSG9JMXxdEUaAx+hH52nxwDDc7qTJtdQAk/76LSE9V4SfEW3wNrg2Ju1QTrMkJOZ\nIzA+6hb7a/4vQ3kGYOYBiqloPojb+VFyYthNh3+7n6N1x+jDMxBT3nyy50/KEi7i\nnMAZ62rsyN3k5M76QPGVNpKVlvA51L+JWhO21DhJufKBECuPOESEzcfNmAUvgU1o\nh69+L/wAAje2M3wtMoJYuUYj6zVfQf/HdXmwmizZ4ZIsS1K057dUUYzp9LoYv++K\nvA945Vm9p88+7mbAn25KmA7B8enJ554a1bK/Ya/6K6LZpSk692VgpEdd/62TS/yZ\nvS6P5iYvAgMBAAECggEAIqGgNxO2tP0pt6X3NgMxTXqp040fSp8ySSz/7SLywtwi\nHuR/35OOPWZjKngX5Cm5X3I9kufJQ142ij7nOrT/l+DCaymNfVFPBt4m3sH+BXbK\nApj96yybTGdCZ3wvkSu2a1ODpS2Nm4DpF7OPzHBu1+3VPYdEtyuEV2TS0wqUoo1k\nqQljT/8LQGGT8ruB4l6Mmt6jq7hGWEJY4KWp0sKiF/WliiYcOdjR375X0RlESxFJ\n478U3AN3tTVr/yQ4s1CtQtZ5T0kXlsGhB01IAjsYy0fP63CeFVK3B5Npn7q7wGur\nqq7vbXGURCgX9RCiO4k6ph6adx/nK44d5+fRk6bEwQKBgQDDRpHfRw9hY0iuenEX\nc304wuveYQmfxgJQ2nnEptUlj1g8MB4cmvG9j3ABmKGQnl3JscTtshDbmHcqcf/X\nIvbmRu2t5luCTM2cWTKTz/jJcKv6jrWZHmyiM13zNvhqRNk8yUOEgZ90F/70T6A0\n6Wig1kz4AAmK27z+m9/9gX3XTwKBgQC8QglDn6BgBUCvMvZnrDh+yNfoxTSc5VBi\nZ37rRY35qOv6lm6uBBqUaWTgEH5oitTO6BxQiDWEO+gLjitqFZpxVWAs/gUkr6mR\n2J/c4nSfGVpOmib+a8+Q8wTEK/iVUaerxbqj1AnEMF6qRtKsPMTZDo5vwAO8lb/7\nWeLN54MLIQKBgBAPZ8PjRkKONdYTv+Vb3Dqk3V1GwdHgKSSZM1aXGgSiy3D3zCIy\nJBuhBmc7NF5+h9wkwLuD35sP6Q0WnyIEgCXkQ3v/7BrFUku/kkdR3XZDzAEpZ4oW\nVHzqmJl+NeQXkX5MVz84ofKcXp2dRuHTKIXB2kazShWfiOWv0DY7RixFAoGAMyj2\n/4uXt8B1rab5036386x9EGLXQ3QF/lgF48YJKTnAt16+QUgYORDTOxkAYUSpRHlL\niI8bjA4Dp3BBWBj62aXL9y4pE6kxOdNWzl40NzBanFXEFwwRYmDIgM86RMnl+QZJ\nDFCJPumuMDQC+I+jJyGPj8rsuQkxHQt2WWJ6+EECgYEAu2nfPBozYKZfiguhhKR8\n2Ujq+Cw5nBHr4aykmVojui+qhWTlWFCTS8PiWvyJm+Pa8QKG6Xi9PFcoUHUAEG7v\nG+F+1sJg92K12/GR18qBBOiCDADqG16W+vSXH5rpWunOgIPPhsSV9Qqm2qq6SEHc\n93VlRUXP6R/N1qEYel/Qvhw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheetruby@spreadsheetruby-286311.iam.gserviceaccount.com",
+  "client_id": "116817120881050546844",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheetruby%40spreadsheetruby-286311.iam.gserviceaccount.com"
+}
